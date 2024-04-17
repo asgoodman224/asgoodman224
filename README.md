@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Andrew Goodman, I am a studnet at Quinnipiac University studying Computer Science.
 
 <!--
 **asgoodman224/asgoodman224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
